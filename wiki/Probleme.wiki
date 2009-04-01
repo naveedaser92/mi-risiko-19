@@ -20,10 +20,4 @@ z.B.
 Abfrage "im Kreis" wie beim Hamster funktioniert nicht bei zB Grönland
 
 
-Grönland:
-
-Nordwest
-
-Ontario
-
-Quebec
+Grönland erreicht: Nordwest, Ontario, Quebec --> nicht: Alberta
