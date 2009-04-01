@@ -1,0 +1,26 @@
+#summary One-sentence summary of this page.
+
+= Probleme =
+
+Länderabfrage um Nachbarn zu ermitteln.
+
+z.B.
+					  
+	Alaska		NordWestTerritorium 	Grönland	null	
+
+	null		Alberta			Ontario		Quebec
+
+	null		Weststaaten		Oststaaten	null	
+
+	null		Mittelamerika		null		null
+
+
+
+
+Abfrage "im Kreis" wie beim Hamster funktioniert nicht bei zB Grönland
+
+
+Grönland:
+Nordwest
+Ontario
+Quebec
